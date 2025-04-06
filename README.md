@@ -75,4 +75,24 @@ EfficientNetB0 (base model)
   </ul>
 </div>
 
+<div style="background-color: #e8f5e9; padding: 20px; border-radius: 10px; margin: 20px 0;">
+  <h3>📥 Installation</h3>
+  
+  <ol>
+    <li>Clone the repository:
+      <pre><code>git clone https://github.com/your-username/human-activity-recognition.git</code></pre>
+    </li>
+    <li>Install dependencies:
+      <pre><code>pip install -r requirements.txt</code></pre>
+    </li>
+    <li>Download dataset from <a href="#">Kaggle</a> and place in <code>Data/</code> directory</li>
+  </ol>
+  
+  <h3>🏋️ Training the Model</h3>
+  <pre><code>python train.py --epochs 50 --batch_size 32</code></pre>
+  
+  <h3>🧪 Evaluating the Model</h3>
+  <pre><code>python evaluate.py --model_path models/best_model.h5</code></pre>
+</div>
+
 
