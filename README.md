@@ -1,14 +1,13 @@
-📷 Image Classification (15 Classes) - EfficientNetB0
+# 🚀 Image Classification Project  
 
-A deep learning model for multi-class image classification, built with TensorFlow/Keras and transfer learning.
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-Python
-TensorFlow
-License
+## 📌 Overview  
+A deep learning model for classifying images into 15 categories.
 
-✨ Overview
-This project implements a 15-class image classifier using EfficientNetB0 (pretrained on ImageNet) with fine-tuning. It includes:
-✔️ Data preprocessing & augmentation
-✔️ Model training with callbacks (EarlyStopping, ModelCheckpoint)
-✔️ Performance evaluation (accuracy, confusion matrix)
-✔️ Visualization tools (Plotly, Matplotlib)
+## 🔧 Installation  
+```bash
+git clone https://github.com/your-username/repo-name.git
+pip install -r requirements.txt
