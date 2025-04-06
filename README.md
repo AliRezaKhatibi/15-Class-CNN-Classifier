@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>🤖 Human Action Recognition System</h1>
-  <h3>Advanced 15-class activity classification using EfficientNetB0</h3>
+  <h3>Advanced 15-class action classification using EfficientNetB0</h3>
   
   <p align="center">
     <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge" alt="Python">
