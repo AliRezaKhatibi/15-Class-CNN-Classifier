@@ -85,7 +85,7 @@ EfficientNetB0 (base model)
     <li>Install dependencies:
       <pre><code>pip install -r requirements.txt</code></pre>
     </li>
-    <li>Download dataset from <a href="[#](https://www.kaggle.com/datasets/meetnagadia/human-action-recognition-har-dataset)">Kaggle</a> and place in <code>Data/</code> directory</li>
+    <li>Download dataset from <a href="[Data](https://www.kaggle.com/datasets/meetnagadia/human-action-recognition-har-dataset)">Kaggle</a> and place in <code>Data/</code> directory</li>
   </ol>
   
   <h3>🏋️ Training the Model</h3>
