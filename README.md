@@ -7,7 +7,4 @@
 ## 📌 Overview  
 A deep learning model for classifying images into 15 categories.
 
-## 🔧 Installation  
-```bash
-git clone https://github.com/your-username/repo-name.git
-pip install -r requirements.txt
+
