@@ -92,7 +92,7 @@ EfficientNetB0 (base model)
   <pre><code>python train.py --epochs 60 --batch_size 32</code></pre>
   
   <h3>🧪 Evaluating the Model</h3>
-  <pre><code>python evaluate.py --model_path models/best_model.h5</code></pre>
+  <pre><code>python evaluate.py --model_path models/model_3.keras</code></pre>
 </div>
 
 
