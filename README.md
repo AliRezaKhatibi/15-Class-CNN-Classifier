@@ -85,7 +85,7 @@ EfficientNetB0 (base model)
     <li>Install dependencies:
       <pre><code>pip install -r requirements.txt</code></pre>
     </li>
-    <li>Download dataset from <a href="#">Kaggle</a> and place in <code>Data/</code> directory</li>
+    <li>Download dataset from <a href="[#](https://www.kaggle.com/datasets/meetnagadia/human-action-recognition-har-dataset)">Kaggle</a> and place in <code>Data/</code> directory</li>
   </ol>
   
   <h3>🏋️ Training the Model</h3>
@@ -95,9 +95,3 @@ EfficientNetB0 (base model)
   <pre><code>python evaluate.py --model_path models/model_3.keras</code></pre>
 </div>
 
-import kagglehub
-
-# Download latest version
-path = kagglehub.dataset_download("meetnagadia/human-action-recognition-har-dataset")
-
-print("Path to dataset files:", path)
