@@ -89,7 +89,7 @@ EfficientNetB0 (base model)
   </ol>
   
   <h3>🏋️ Training the Model</h3>
-  <pre><code>python train.py --epochs 50 --batch_size 32</code></pre>
+  <pre><code>python train.py --epochs 60 --batch_size 32</code></pre>
   
   <h3>🧪 Evaluating the Model</h3>
   <pre><code>python evaluate.py --model_path models/best_model.h5</code></pre>
