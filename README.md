@@ -1,4 +1,5 @@
 📷 Image Classification (15 Classes) - EfficientNetB0
+
 A deep learning model for multi-class image classification, built with TensorFlow/Keras and transfer learning.
 
 Python
