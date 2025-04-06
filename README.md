@@ -77,10 +77,9 @@ EfficientNetB0 (base model)
 
 <div style="background-color: #e8f5e9; padding: 20px; border-radius: 10px; margin: 20px 0;">
   <h3>📥 Installation</h3>
-  
   <ol>
     <li>Clone the repository:
-      <pre><code>git clone https://github.com/your-username/human-activity-recognition.git</code></pre>
+      <pre><code>git clone https://github.com/your-username/15-Class-CNN-Classifier.git</code></pre>
     </li>
     <li>Install dependencies:
       <pre><code>pip install -r requirements.txt</code></pre>
