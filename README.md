@@ -1,11 +1,3 @@
-# 🚀 Image Classification Project  
-
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
-
-## 📌 Overview  
-A deep learning model for classifying images into 15 categories.
 
 <div align="center">
   <h1>🤖 Human Activity Recognition System</h1>
