@@ -53,4 +53,26 @@
   </div>
 </div>
 
+<div style="background-color: #fff8e1; padding: 20px; border-radius: 10px; margin: 20px 0;">
+  <h3>🧠 Neural Network Structure</h3>
+  
+  <pre style="background-color: #f5f5f5; padding: 15px; border-radius: 5px; overflow-x: auto;">
+EfficientNetB0 (base model)
+├─ GlobalAveragePooling2D()
+├─ BatchNormalization()
+├─ Dense(128, activation='relu', L2 regularization)
+├─ Dropout(0.5)
+├─ Dense(128, activation='relu')
+├─ Dropout(0.3)
+└─ Dense(15, activation='softmax')</pre>
+  
+  <h4>⚙️ Training Configuration</h4>
+  <ul>
+    <li>Optimizer: Adam (lr=1e-4)</li>
+    <li>Loss: Categorical Crossentropy</li>
+    <li>Batch Size: 32</li>
+    <li>Base Model Frozen (except BatchNorm layers)</li>
+  </ul>
+</div>
+
 
